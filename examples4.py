@@ -1,5 +1,4 @@
 # Задание.Дано число.Проверить кратно ли оно 5 и 10 или 15,но не 30.
-
 number_str = input('Введите целое число: ')
 if number_str.isdigit():
     number = int(number_str)
