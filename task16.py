@@ -46,5 +46,3 @@ for line in lst:
 
 summ_lst = GetSummLst(lst, lst[0][0], 1, 0, 1)
 print('found', len(summ_lst), 'different path summs. Max summ =', max(summ_lst))
-
-

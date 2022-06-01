@@ -21,3 +21,5 @@ if number_str.isdigit():
     
     # выведем содержимое заполненного списка в терминал
     print('Result list contsins', lst)
+
+    

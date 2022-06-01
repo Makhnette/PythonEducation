@@ -37,4 +37,3 @@ def number(a,b,c,d,f):
    print(f"max = {max}")
 
 number(11,20,3,40,5)
-
