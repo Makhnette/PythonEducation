@@ -8,8 +8,8 @@
 
 # 1st let's try obvious solution
 n = 100
-num1 = sum(i for i in range(1, n +1))
-num2 = sum(i**2 for i in range(1, n +1))
+num1 = sum(i for i in range(1, n + 1))
+num2 = sum(i**2 for i in range(1, n + 1))
 print('obvious solution:',num1**2 - num2)
 
 # summ from 1 to N: S1 = (1 + N) + (2 + N - 1) + (3 + N - 2)... N / 2 times => S1 = N * (N + 1) / 2
